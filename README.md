@@ -27,5 +27,7 @@ pip install -r requirements.txt
 ## Useful links
 
 1. [PSI-Exp-2019 Dropbox][1]
+2. [Open Signals File Formats specification][2]
 
 [1]: https://www.dropbox.com/sh/s3jhgxe13e8f9jw/AADko9DkyvlCDqhekWvMlUOva?dl=0
+[2]: http://bitalino.com/datasheets/OpenSignals_File_Formats.pdf
