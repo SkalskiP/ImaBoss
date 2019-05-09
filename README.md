@@ -28,6 +28,8 @@ pip install -r requirements.txt
 
 1. [PSI-Exp-2019 Dropbox][1]
 2. [Open Signals File Formats specification][2]
+3. [Analyzing a Discrete Heart Rate Signal Using Python – Part 1][3]
 
 [1]: https://www.dropbox.com/sh/s3jhgxe13e8f9jw/AADko9DkyvlCDqhekWvMlUOva?dl=0
 [2]: http://bitalino.com/datasheets/OpenSignals_File_Formats.pdf
+[3]: http://www.paulvangent.com/2016/03/15/analyzing-a-discrete-heart-rate-signal-using-python-part-1/
